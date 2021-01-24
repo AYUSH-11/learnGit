@@ -1,2 +1,1 @@
-# learngit
-Learn git Repo.
+#Learn git Repo.
